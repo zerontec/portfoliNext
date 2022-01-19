@@ -1,14 +1,11 @@
 {
   "hosting": {
-    "public": "public",
+    "site": "leozeron",
+    "public": "out",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites":[
-      {  "source": "**",
-      "fucntion": "nextServer"}
     ]
   },
   "function": {

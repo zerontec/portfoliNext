@@ -16,7 +16,7 @@ const Hero = (props) => (
   <SectionText>
   Puedes conocer algunos de mis trabajos como desarrolador Full Stack 
   </SectionText>
-  <Button onClick={() => window.location= 'https://google.com'}>Conoce Mas</Button>
+  <Button onClick={() => window.location= ''}>Conoce Mas</Button>
 
    </LeftSection>
 

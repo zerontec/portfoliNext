@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Devsign',
-    description: "Site de statrtup emprendimiento Diseño y Desarrollo de palicaciones Web ",
+    description: "Site de statrtup emprendimiento Diseño y Desarrollo de aplicaciones Web ",
     image: '/images/devsign.png',
     tags: ['Angular', 'Firebase'],
     source: 'https://google.com',

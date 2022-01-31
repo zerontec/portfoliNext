@@ -44,7 +44,7 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>Ago más de mi</SectionTitle>
+      <SectionTitle>Algo más de mi</SectionTitle>
       <SectionText>
       La verdad que me apasiona poder construir cosas que la persona puedan utilizar y hacer de alguna u otra manera su vida un poquito más facil,
       soy un apasionado como dije antes dedicado 100% enamorado de esta industria .

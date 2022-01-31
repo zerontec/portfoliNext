@@ -4,9 +4,9 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { texta:'Tecnologias', text: 'React Redux Angular express Mongodb Postgres'},
-  { texta: 'Preapación', text: 'Univesidad, Bootcamp, Cursos', },
-  { texta: 'LifeHack', text: 'Constancia Prepación, Equipo ' },
+  { texta:'Tecnologías', text: 'React Redux Angular express Mongodb Postgres'},
+  { texta: 'Preparación', text: 'Univesidad, Bootcamp, Cursos', },
+  { texta: 'LifeHack', text: 'Constancia Preparación, Equipo ' },
  
 ];
 
